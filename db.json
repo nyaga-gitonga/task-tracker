@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "Read the Es6 notes",
+      "day": "October 8th at 6.00am",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Complete the Travesy tutorial",
+      "day": "October 9th at 8.00am",
+      "reminder": true
+    },
+    {
+      "text": "Dylan Evans",
+      "day": "Feb 20th 2091 05:44",
+      "reminder": false,
+      "id": 4
+    }
+  ]
+}
